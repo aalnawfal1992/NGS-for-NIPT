@@ -1,4 +1,6 @@
 # NGS-for-NIPT
+##This Is Beta Version
+
 R script for Non-invasive prenatal testing
 
 #This secript made by Abdullah Al-Nawfal. 
